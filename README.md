@@ -6,7 +6,7 @@ nginx выступает в роли reverse proxy и проксирует за�
 ## Запуск проекта
 
 ```bash
-docker compose up -d --build
+docker-compose up -d --build
 ```
 ## Проверка
 ```bash
